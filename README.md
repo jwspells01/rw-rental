@@ -1,2 +1,3 @@
 # rw-rental
-fix languange
+fix languange to English
+Modifiy NPC
